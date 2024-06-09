@@ -1,1 +1,2 @@
 hello Iam someone and created feature2 branch
+hello Iam line2 from featured4 branch
